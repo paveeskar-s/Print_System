@@ -1,0 +1,11 @@
+D:\C#\print_system\print_system\bin\Debug\print_system.exe.config
+D:\C#\print_system\print_system\bin\Debug\print_system.exe
+D:\C#\print_system\print_system\bin\Debug\print_system.pdb
+D:\C#\print_system\print_system\obj\Debug\print_system.csproj.AssemblyReference.cache
+D:\C#\print_system\print_system\obj\Debug\print_system.Form1.resources
+D:\C#\print_system\print_system\obj\Debug\print_system.Properties.Resources.resources
+D:\C#\print_system\print_system\obj\Debug\print_system.csproj.GenerateResource.cache
+D:\C#\print_system\print_system\obj\Debug\print_system.csproj.CoreCompileInputs.cache
+D:\C#\print_system\print_system\obj\Debug\print_system.exe
+D:\C#\print_system\print_system\obj\Debug\print_system.pdb
+D:\C#\print_system\print_system\obj\Debug\print_system.formposprint.resources
